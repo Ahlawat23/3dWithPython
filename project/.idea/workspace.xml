@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="drew the first rectangle">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chaper_One/plotPixel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chaper_One/plotPixel.py" afterDir="false" />
-    </list>
+    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="made the leo constellation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695419959655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="made the leo constellation">
+      <created>1695452665451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695452665451</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +167,7 @@
     <MESSAGE value="space bug solved" />
     <MESSAGE value="resturctured the files" />
     <MESSAGE value="drew the first rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="drew the first rectangle" />
+    <MESSAGE value="made the leo constellation" />
+    <option name="LAST_COMMIT_MESSAGE" value="made the leo constellation" />
   </component>
 </project>
