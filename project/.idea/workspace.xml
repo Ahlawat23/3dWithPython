@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="added chapter two folder">
-      <change afterPath="$PROJECT_DIR$/Chapter_two/pygameLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_two/rgbspace.py" afterDir="false" />
+    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="added text and line">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_two/Blazed.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_two/CustomFont.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_two/polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_two/showRaster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_two/sunset.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +47,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_Artworks\_GitHubRepo\3dWithPython\project\Chapter_two" />
+      <recent name="D:\_Artworks\_GitHubRepo\3dWithPython\project\fonts" />
       <recent name="D:\_Artworks\_GitHubRepo\3dWithPython\project\Chaper_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pygameLine">
-    <configuration name="Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.showRaster">
+    <configuration name="CustomFont" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_two" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\_Artworks\_GitHubRepo\3dWithPython\project\Chaper_One\Hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_two/CustomFont.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plotPixel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="polygon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chaper_One" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_two" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chaper_One/plotPixel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_two/polygon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,12 +142,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="showRaster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_two" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_two/showRaster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.showRaster" />
+        <item itemvalue="Python.polygon" />
+        <item itemvalue="Python.CustomFont" />
         <item itemvalue="Python.pygameLine" />
         <item itemvalue="Python.rgbspace" />
-        <item itemvalue="Python.plotPixel" />
-        <item itemvalue="Python.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695453469189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added text and line">
+      <created>1695521775288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695521775288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +260,7 @@
     <MESSAGE value="drew the first rectangle" />
     <MESSAGE value="made the leo constellation" />
     <MESSAGE value="added chapter two folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="added chapter two folder" />
+    <MESSAGE value="added text and line" />
+    <option name="LAST_COMMIT_MESSAGE" value="added text and line" />
   </component>
 </project>
