@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="completed chapeter two" />
+    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="renamed chapter forlders">
+      <change afterPath="$PROJECT_DIR$/Chapter_3/LinePlot.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695553392078</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="renamed chapter forlders">
+      <created>1695553512587</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695553512587</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +270,7 @@
     <MESSAGE value="added chapter two folder" />
     <MESSAGE value="added text and line" />
     <MESSAGE value="completed chapeter two" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed chapeter two" />
+    <MESSAGE value="renamed chapter forlders" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed chapter forlders" />
   </component>
 </project>
