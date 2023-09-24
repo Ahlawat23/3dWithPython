@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="added text and line">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_two/Blazed.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_two/CustomFont.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_two/polygon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_two/showRaster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_two/sunset.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="completed chapeter two" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695521775288</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="completed chapeter two">
+      <created>1695553392078</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695553392078</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +260,7 @@
     <MESSAGE value="made the leo constellation" />
     <MESSAGE value="added chapter two folder" />
     <MESSAGE value="added text and line" />
-    <option name="LAST_COMMIT_MESSAGE" value="added text and line" />
+    <MESSAGE value="completed chapeter two" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed chapeter two" />
   </component>
 </project>
