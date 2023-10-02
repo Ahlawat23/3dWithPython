@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="added lineplot">
+    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="added bresnham algo for drawing line">
+      <change afterPath="$PROJECT_DIR$/Chapter_3/plottingCircle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_3/LinePlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/LinePlot.py" afterDir="false" />
     </list>
@@ -53,28 +54,7 @@
       <recent name="D:\_Artworks\_GitHubRepo\3dWithPython\project\Chaper_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pygameLine">
-    <configuration name="CustomFont" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_two" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_two/CustomFont.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.plottingCircle">
     <configuration name="LinePlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +68,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_3/LinePlot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plottingCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_3/plottingCircle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +161,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.CustomFont" />
       <item itemvalue="Python.LinePlot" />
       <item itemvalue="Python.polygon" />
       <item itemvalue="Python.pygameLine" />
       <item itemvalue="Python.showRaster" />
+      <item itemvalue="Python.plottingCircle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pygameLine" />
+        <item itemvalue="Python.plottingCircle" />
         <item itemvalue="Python.LinePlot" />
+        <item itemvalue="Python.pygameLine" />
         <item itemvalue="Python.showRaster" />
         <item itemvalue="Python.polygon" />
-        <item itemvalue="Python.CustomFont" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695561923613</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added bresnham algo for drawing line">
+      <created>1696172320284</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696172320284</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +296,7 @@
     <MESSAGE value="completed chapeter two" />
     <MESSAGE value="renamed chapter forlders" />
     <MESSAGE value="added lineplot" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lineplot" />
+    <MESSAGE value="added bresnham algo for drawing line" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bresnham algo for drawing line" />
   </component>
 </project>
