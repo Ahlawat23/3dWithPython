@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="completed chapter 3">
-      <change afterPath="$PROJECT_DIR$/Chapter_4/OpenGlStarter.py" afterDir="false" />
+    <list default="true" id="362f45e7-7181-421c-a9b3-9c91a2d3d74b" name="Changes" comment="complete the starter open gl">
+      <change afterPath="$PROJECT_DIR$/Chapter_4/HelloMesh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_4/Mesh3D.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_2/pygameLine.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,7 +54,28 @@
       <recent name="D:\_Artworks\_GitHubRepo\3dWithPython\project\Chaper_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.OpenGlStarter">
+  <component name="RunManager" selected="Python.HelloMesh">
+    <configuration name="HelloMesh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_4/HelloMesh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LinePlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,41 +160,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="showRaster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_two" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_two/showRaster.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.LinePlot" />
       <item itemvalue="Python.pygameLine" />
-      <item itemvalue="Python.showRaster" />
       <item itemvalue="Python.plottingCircle" />
       <item itemvalue="Python.OpenGlStarter" />
+      <item itemvalue="Python.HelloMesh" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HelloMesh" />
         <item itemvalue="Python.OpenGlStarter" />
         <item itemvalue="Python.plottingCircle" />
         <item itemvalue="Python.LinePlot" />
         <item itemvalue="Python.pygameLine" />
-        <item itemvalue="Python.showRaster" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696260703592</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="complete the starter open gl">
+      <created>1696268509596</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696268509596</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +312,7 @@
     <MESSAGE value="added lineplot" />
     <MESSAGE value="added bresnham algo for drawing line" />
     <MESSAGE value="completed chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed chapter 3" />
+    <MESSAGE value="complete the starter open gl" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete the starter open gl" />
   </component>
 </project>
