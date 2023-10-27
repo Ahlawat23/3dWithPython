@@ -1,12 +1,17 @@
 import pygame
 from pygame.locals import *
 from Mesh3D import  *
+from OpenGL.GLU import *
+
 pygame.init()
 screen_width = 500
 screen_height = 500
 screen = pygame.display.set_mode((screen_width, screen_height), DOUBLEBUF | OPENGL)
 pygame.display.set_caption('OpenGL in Python')
 done = False
+gluPerspective(60, (screen_width / screen_height), 0.1, 100.0)
+#glOrtho(-1, 1, 1, -1, 0.1, 100.0)
+glTranslatef(0.0, 0.0, -3)
 mesh = Mesh3D()
 
 while not done:
@@ -14,6 +19,8 @@ while not done:
         if event.type == pygame.QUIT:
             done = True
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
+    glRotatef(5, 1, 0, 1)
     mesh.draw()
     pygame.display.flip()
+    pygame.time.wait(100)
 pygame.quit()
